@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yalcinaksakal
-- 👀 I’m interested in js,react
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on js, react projects
+
+https://yaprojects.netlify.app/
+
+
 
 <!---
 yalcinaksakal/yalcinaksakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
