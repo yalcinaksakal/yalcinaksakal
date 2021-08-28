@@ -1,5 +1,7 @@
 JS
 
+TypeScript
+
 REACT
 
 REDUX
