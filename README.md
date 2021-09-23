@@ -14,8 +14,6 @@ CSS
 
 HTML
 
-MONGODBATLAS
-
 FIREBASE
 
 https://yaprojects.netlify.app/
